@@ -9,7 +9,7 @@ This project involves building a predictive model to determine whether customers
 ## Project Structure
 
 - `README.md`: This file, providing an overview of the project.
-- `Test_Classification_Project.ipynb`: The Jupyter Notebook containing the full analysis and modeling process.
+- `Classification_Project.ipynb`: The Jupyter Notebook containing the full analysis and modeling process.
 
 ## Analysis and Modeling
 
