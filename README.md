@@ -28,7 +28,6 @@ This project involves building a predictive model to determine whether customers
 
 4. **Final Model Testing:**
    - Tested the final model by making predictions on new input data.
-   - Evaluated the final model using accuracy, precision, recall, and F1-score.
 
 ## Results
 
