@@ -8,7 +8,7 @@ This project involves building a predictive model to determine whether customers
 
 This project is organized as follows:
 - Dataset: [Telco customer churn](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)
-- [Project](https://github.com/Waliid18/Classification-Project/blob/main/Classification_Project_Customer_Churn_Prediction.ipynb)
+- [Project](https://github.com/Waliid18/Classification-Project/blob/main/Classification_Project_Customer_Churn_Prediction.ipynb) : Classification_Project_Customer_Churn_Prediction
 - [README.md](https://github.com/Waliid18/Classification-Project/edit/main/README.md): This file, providing an overview of the project. :link:
 
 ## Analysis and Modeling :gear:
